@@ -21,7 +21,7 @@ h1 {
     float: left;
     width: 33.33%;
     margin-bottom: :3px;
-    padding: 5px;
+    padding: 10px;
     }
  
 }
@@ -30,7 +30,7 @@ h1 {
    .col-md-6 ,.col-md-special{
     float: left;
     margin-bottom: 3px;
-    padding:5px;
+    padding:10px;
    
   }
   .col-md-6{
@@ -46,7 +46,7 @@ h1 {
     float: left;
     width: 100%;
     margin-bottom: :3px;
-    padding: 5px;
+    padding: 10px;
     }
  
 }
