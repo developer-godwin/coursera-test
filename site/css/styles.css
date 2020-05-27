@@ -1,0 +1,84 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #fff5d7;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #ff5e6c;
+  border-radius: 0;
+  border: 0;
+  box-shadow: 2px;
+}
+.navbar-header{
+  height:70px;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'arial', serif;
+  color: #fcffc7;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #e1f2ae;
+  text-align: center;
+  font-size: 1.1em;
+  font-family: 'arial', serif;
+
+}
+#nav-list a:hover {
+  background: #fcffc7;
+  color:#32332e;
+}
+#main{
+  color: #23241e;
+  font-weight: bold;
+  font-family: 'arial';
+  margin-bottom: 25px;
+}
+
+#heading1{
+  font-family: 'arial';
+  color:#242709;
+  font-weight: bold;
+  margin: 15px;
+  text-transform: uppercase;
+}
+
+
+#heading2{
+  font-family: 'arial';
+  color:#242709;
+  font-weight: bold;
+  margin: 15px;
+  text-transform: uppercase;
+
+}
+#heading3{
+  font-family: 'arial';
+  color:#242709;
+  font-weight: bold;
+  margin: 15px;
+  text-transform: uppercase;
+
+}
+#bg{
+  background-color: #feb300;
+  border:4px solid #fff5d7;
+
+}
